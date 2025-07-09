@@ -10,3 +10,10 @@ p{
 h3{
     text-align: center;
 }
+img{
+    margin: 1px;
+    border: 5%;
+    padding: 2pt;
+    width: 300px;
+    height: 200px;
+}
